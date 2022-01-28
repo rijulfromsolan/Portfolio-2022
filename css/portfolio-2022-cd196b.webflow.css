@@ -1129,6 +1129,10 @@
   filter: blur(50px);
 }
 
+.image-3 {
+  max-width: 35px;
+}
+
 .page_loader_container {
   display: none;
 }
@@ -1278,6 +1282,10 @@
 
   .btn_bg.dribbble {
     background-color: #fff;
+  }
+
+  .image-3 {
+    max-width: 36px;
   }
 }
 
